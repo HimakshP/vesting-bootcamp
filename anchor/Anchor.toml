@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-counter = "8PwcfFJUvVE2PzZWvCgS43ko6bhkgmyknEM5qNmkEaUf"
+vesting = "8PwcfFJUvVE2PzZWvCgS43ko6bhkgmyknEM5qNmkEaUf"
 
 [registry]
 url = "https://api.apr.dev"
